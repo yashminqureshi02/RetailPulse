@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 RetailPulse – Customer Analytics & Sales Dashboard
 
 Project Overview
@@ -36,3 +37,7 @@ Run Locally
 Project Status
 
 The dashboard and analysis features should be tested locally before submission. Any feature that has not been successfully tested should not be considered complete.
+=======
+# RetailPulse
+Retail customer analytics and sales dashboard using Python.
+>>>>>>> a94e0ceced38b45b0884c9af3f0cae57e4954ffb
